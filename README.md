@@ -1,2 +1,2 @@
 # stylus-reset
-Reset default style
+Mixin to reset default style
