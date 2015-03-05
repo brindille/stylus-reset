@@ -1,0 +1,24 @@
+{
+  "name": "brindille-stylus-reset",
+  "version": "0.0.1",
+  "description": "Mixin to reset default style",
+  "main": "index.styl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brindille/stylus-reset.git"
+  },
+  "keywords": [
+    "stylus",
+    "mixin",
+    "reset"
+  ],
+  "author": "Valentin Daguenet <valentin.daguenet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brindille/stylus-reset/issues"
+  },
+  "homepage": "https://github.com/brindille/stylus-reset"
+}
